@@ -143,7 +143,7 @@
     height: 22vw;
     width: 16.5vw;
     color: white;
-    background: url('img-2.png')no-repeat center;
+    background: url('img-6.png')no-repeat center;
     background-size: 23vw 28vw;
 }
 .section2-item::after{
@@ -261,7 +261,7 @@
 }
 #section3-box3{
     grid-area: section3-box3;
-    background: url('img-3.png')no-repeat;
+    background: url('img-5.png')no-repeat;
     background-size: 40vw 20vw;
     transition: all 1s ease-in-out;
 }
@@ -276,7 +276,7 @@
 }
 #section3-box6{
     grid-area: section3-box6;
-    background: url('img-5.png')no-repeat;
+    background: url('img-3.png')no-repeat;
     background-size: 40vw 20vw;
     transition: all 1s ease-in-out;
 }
@@ -305,7 +305,7 @@
     z-index: 1;
     top: 0;
     left: 0;
-    background: url('img-6.png')no-repeat;
+    background: url('img-7.jpg')no-repeat;
     background-size: 21vw 21vw;
     margin-left: 11vw;
 
