@@ -552,7 +552,7 @@
        font-size: 3vw;
      }
      .section2-item{
-        height:50vw ;
+        height:51vw;
         width: 68vw;
      }
      #section2-item4{
@@ -593,6 +593,7 @@
         font-size: 3vw;
     }
     .section3-boxempty{
+        margin-bottom: 1vw;
         height: 40vw;
         padding: 2vw;
     }
@@ -634,7 +635,7 @@
     #section4-left{
         width: 54vw;
         height: 54vw;
-        background-size: 54vw 52vw;
+        background-size: 51vw 64vw;
         margin-left: 0px;
     }
     #section4-left::after{
@@ -677,10 +678,10 @@
         height: 10vw;
     }
     .section5-box h2{
-        font-size: 6vw;
+        font-size: 5vw;
     }
     .section5-box p{
-        font-size: 5vw;
+        font-size: 4vw;
     }
     .section5-box img{
         top: 2vw;
