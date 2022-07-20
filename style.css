@@ -552,7 +552,7 @@
        font-size: 3vw;
      }
      .section2-item{
-        height:51vw;
+        height:53vw;
         width: 68vw;
      }
      #section2-item4{
@@ -593,7 +593,7 @@
         font-size: 3vw;
     }
     .section3-boxempty{
-        margin-bottom: 1vw;
+        margin-bottom: 3vw;
         height: 40vw;
         padding: 2vw;
     }
@@ -635,7 +635,7 @@
     #section4-left{
         width: 54vw;
         height: 54vw;
-        background-size: 51vw 64vw;
+        background-size: 50vw 66vw;
         margin-left: 0px;
     }
     #section4-left::after{
