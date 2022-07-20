@@ -518,6 +518,10 @@
     }
 
     /* section2 */
+    #container2{
+        height: 80vw;
+        margin-top: 32.5vw;
+    }
     #section2-top{
         margin: 0 5vw;
     }
@@ -626,7 +630,7 @@
     #container4{
         height: 100vw;
         margin: 0px 21vw;
-        margin-top: 550vw;
+        margin-top: 592vw;
         flex-direction: column;
     }
     .section4{
