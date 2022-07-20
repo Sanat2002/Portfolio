@@ -6,7 +6,7 @@
 #container1{
     height: 49.1vw;
     width: 99.2vw;
-    background: url('ProjectWeb-03-1.png');
+    background: url('imgsrc/ProjectWeb-03-1.png');
     background-size: cover;
     background-position: top center;
     position: relative;
@@ -162,7 +162,7 @@
     height: 22vw;
     width: 16.5vw;
     color: white;
-    background: url('ProjectWeb-03-2.png')no-repeat center;
+    background: url('imgsrc/ProjectWeb-03-2.png')no-repeat center;
     background-size: 22vw 28vw;
     animation: sec2-bottom 6s infinite forwards;
 }
@@ -288,7 +288,7 @@
 }
 #section3-box2{
     grid-area: section3-box2;
-    background: url('ProjectWeb-03-8.png')no-repeat;
+    background: url('imgsrc/ProjectWeb-03-8.png')no-repeat;
     background-size: 40vw 20vw;
     transition: all 1s ease-in-out;
 }
@@ -297,7 +297,7 @@
 }
 #section3-box3{
     grid-area: section3-box3;
-    background: url('ProjectWeb-03-9.jpg')no-repeat;
+    background: url('imgsrc/ProjectWeb-03-9.jpg')no-repeat;
     background-size: 40vw 20vw;
     transition: all 1s ease-in-out;
 }
@@ -312,7 +312,7 @@
 }
 #section3-box6{
     grid-area: section3-box6;
-    background: url('ProjectWeb-03-10.jpg')no-repeat;
+    background: url('imgsrc/ProjectWeb-03-10.jpg')no-repeat;
     background-size: 40vw 20vw;
     transition: all 1s ease-in-out;
 }
@@ -341,7 +341,7 @@
     z-index: 1;
     top: 0;
     left: 0;
-    background: url('ProjectWeb-03-7.jpg')no-repeat;
+    background: url('imgsrc/ProjectWeb-03-7.jpg')no-repeat;
     background-size: 18vw 26vw;
     margin-left: 11vw;
 
