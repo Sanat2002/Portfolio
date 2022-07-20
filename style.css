@@ -561,7 +561,7 @@
 
      /* section3 */
      #container3{
-        top: 290vw;
+        top: 300vw;
         height: 50vw;
     }
     #section3-top h1{
@@ -626,7 +626,7 @@
     #container4{
         height: 100vw;
         margin: 0px 21vw;
-        margin-top: 545vw;
+        margin-top: 550vw;
         flex-direction: column;
     }
     .section4{
